@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account number='12345'>
+<balance><dollar>100,00</dollar>
+<!--Gold customer-->
+<depositor>
+<firstname>John</firstname>
+<lastname>Doe</lastname>
+</depositor>
+
+</balance>
+<win>hey</win>
+<balance><dollor>100,00.00 </dollor>
+Account is overdrawn!
+<depositor>
+<firstname>jane</firstname>
+<lastname> Doe </lastname>
+<firstname>jane</firstname>
+<lastname> Doe </lastname>
+<firstname>jane</firstname>
+<lastname> Doe </lastname>
+<firstname>jane</firstname>
+<lastname> Doe </lastname>
+</depositor>
+
+</balance>
+</account>
