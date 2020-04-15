@@ -8,5 +8,7 @@ package com.nttdata.Xmlbasics;
 			 System.out.println("unbelievable!");
 			 else
 			 System.out.println("believable");
+	 System.out.println("believable");
 			 } 
+
 }
